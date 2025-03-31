@@ -6,4 +6,6 @@ It will start with a simple version where it is just a few layers based on the k
 
 Version 1: 1300 ORNs to 340 AL PNs to 1400 LH neurons to 4 DN neurons. The connections are not contrained by connectome and is just a proof of concept to get the parameters correct for the SNN to learn how to track based on ~2700 imaged and tracked real life plume tracking flies.
 
-Future stpes: Organize the OR to AL/ glomeruli connection based on the available receptor projection data I compiled and summarized in "Drosophila OR to glom.xlsx".
+Future stpes: 
+- Organize the OR to AL/ glomeruli connection based on the available receptor projection data I compiled and summarized in "Drosophila OR to glom.xlsx".
+- Clean up organization and code.
